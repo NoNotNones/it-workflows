@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DevOps Projects on IT Workflows Portfolio</title>
-    <link>http://localhost:1313/it-workflows/</link>
-    <description>Recent content in DevOps Projects on IT Workflows Portfolio</description>
+    <title>Projects on IT Workflows Portfolio</title>
+    <link>http://localhost:1313/it-workflows/projects/</link>
+    <description>Recent content in Projects on IT Workflows Portfolio</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 27 May 2026 14:46:08 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/it-workflows/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/it-workflows/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ci Cd Pipeline</title>
       <link>http://localhost:1313/it-workflows/projects/ci-cd-pipeline/</link>
@@ -21,13 +21,6 @@
       <pubDate>Wed, 27 May 2026 14:45:59 +0700</pubDate>
       <guid>http://localhost:1313/it-workflows/projects/kubernetes-cluster/</guid>
       <description>&lt;p&gt;2&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/it-workflows/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it-workflows/about/</guid>
-      <description>&lt;h2 id=&#34;-xin-chào&#34;&gt;👋 Xin chào&lt;a class=&#34;anchor&#34; href=&#34;#-xin-ch%c3%a0o&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Tôi là DevOps Engineer tập trung vào:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AWS / Terraform&lt;/li&gt;&#xA;&lt;li&gt;CI/CD (GitHub Actions, GitLab CI)&lt;/li&gt;&#xA;&lt;li&gt;Docker / Kubernetes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-mục-tiêu&#34;&gt;🎯 Mục tiêu&lt;a class=&#34;anchor&#34; href=&#34;#-m%e1%bb%a5c-ti%c3%aau&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Xây dựng hệ thống cloud tự động hóa, scalable và secure.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Monitoring Stack</title>

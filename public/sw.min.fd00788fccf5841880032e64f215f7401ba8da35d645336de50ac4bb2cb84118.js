@@ -1,1 +1,0 @@
-navigator.serviceWorker&&navigator.serviceWorker.register("/it-workflows/sw.js",{scope:"/it-workflows/"})
