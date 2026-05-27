@@ -1,4 +1,4 @@
-baseURL: "https://nonotnones.github.io/it-workflows/"
+baseURL: http://0.0.0.0:1313/
 title: Documentation
 theme: hugo-book
 
