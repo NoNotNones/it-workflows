@@ -4,6 +4,8 @@ theme: "hugo-book"
 
 defaultContentLanguage: "en"
 
+copyright: "This is a copyright placeholder"
+
 params:
   BookTheme: "auto"
   BookToC: true
